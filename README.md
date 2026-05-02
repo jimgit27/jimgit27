@@ -9,7 +9,7 @@
   <img src="https://github.com/jimgit27.png" class="center" width="250px;"/>
 <p/>
 <p align="center">
- 🖱️ Development Leader at NBG (Communication & Information Technologies Experts) ⌨️ <br> <a href="https://www.cite.gr/team-of-experts?q=node/582"><img src="https://www.cite.gr/sites/default/files/logo_%28480%29.png" alt="Cite" width="120" height="120"></a></p>
+ 🖱️ Software Engineer (XM) ⌨️ <img src="https://cloud.xm-cdn.com/static/xm/common/logos/revamp/XM-logo.jpg" alt="XM" width="250" height="100"></a></p>
 ---
 <!--
 <h2 align="center"><a href="https://jimgit27.github.io/">👉 My Portofolio 👈
